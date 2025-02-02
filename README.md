@@ -1,2 +1,2 @@
 # DailyCommits
-Test github actions
+Test github actions which run automatically to test runners. 
